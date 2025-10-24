@@ -1,134 +1,110 @@
-<!-- Header Section -->
-<h1 align="center">Hey there 👋, I'm Sherif Amin</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | Cloud Enthusiast ☁️</h3>
+<!-- Profile Header with Animation -->
+<h1 align="center">🎯 Sherif Amin (SherifAmino)</h1>
 
-<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi+There+👋,+I'm+Sherif+Amin!;Data+Scientist+%7C+AI+%7C+Remote+Sensing+Enthusiast;Turning+Data+%F0%9F%93%88+into+Insights+%F0%9F%92%A1;Always+Learning+Something+New+%F0%9F%92%AB" alt="Typing SVG" />
+</div>
+
+---
+
+### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3EB489&width=600&lines=Software+Engineer+%7C+Data+Scientist;AI+and+Machine+Learning+Engineer;GCP+%26+HCIA+Certified+Cloud+Explorer;Lifelong+Learner+%7C+Problem+Solver+%7C+Creator" alt="Typing SVG" />
-  </a>
+  <a href="mailto:sherifhamin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sherif-amin-9a476b278"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://sherif-amin-0wlgobf.gamma.site"><img src="https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white" /></a>
+  <a href="https://github.com/SherifAmino?tab=followers"><img src="https://img.shields.io/github/followers/SherifAmino?label=Followers&style=social" /></a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- **Name**: Sherif Amin  
-- **Role**: Data Scientist / Software Engineer  
-- **Location**: Cairo, Egypt  
-- **Website / Portfolio**: [sherif-amin-0wlgobf.gamma.site](https://sherif-amin-0wlgobf.gamma.site)  
-- **LinkedIn**: [in/sherif-amin-9a476b278](https://www.linkedin.com/in/sherif-amin-9a476b278)  
-- **Certifications**:  
-  - 🎓 **HCIA – Huawei Certified ICT Associate (AI Track)**  
-  - ☁️ **Familiar with Google Cloud Platform (GCP)** — Compute Engine, Cloud Storage, BigQuery, Vertex AI  
-- **Interests**: Machine Learning, Remote Sensing, Computer Vision, Data Engineering, Cloud Computing  
-- **Currently Exploring**:  
-  - Advanced Deep Learning (Transformers, Diffusion Models)  
-  - Scalable MLOps Pipelines  
-  - Geospatial / Satellite Imagery Analytics  
-  - Cloud AI Deployments (GCP & Huawei Cloud)  
+💡 **Data Scientist** based in **Cairo, Egypt**  
+🎓 Dual degree student — *Arab Academy for Science, Technology & Maritime Transport* and *University of Northampton*  
+🌍 Passionate about **Machine Learning, Computer Vision, and Geospatial AI**  
+☁️ Certified in **Huawei HCIA (Cloud & AI)** and skilled with **Google Cloud Platform (GCP)**  
+🧠 Always exploring **transformers, diffusion models, and MLOps pipelines**  
 
 ---
 
 ## 🚀 Highlights & Achievements
 
-- 🛰️ Built a **land-type classification pipeline** using **Sentinel-2 imagery** — featuring cloud masking, band selection, and ML-based classification.  
-- 🌐 Developed **Digital-Card**, a minimalist portfolio website with HTML/CSS/JS.  
-- 📊 Published **Kaggle notebooks** exploring feature engineering, visualization, and competition modeling.  
-- 💡 Solved advanced **ML/AI exercises** and algorithmic tasks in **Exercises-And-Assignments**.  
-- ☁️ Explored **cloud-based AI workflows** on **GCP** and **Huawei Cloud** for automated inference and analysis.  
-- ⭐ Contributed to and forked several open-source projects focused on AI and web systems.  
+- 🛰️ Built **land-type classification pipeline** using *Sentinel-2 satellite imagery* (cloud masking, feature extraction, ML classification).  
+- 💻 Created **Digital-Card**, a minimalist responsive web front for clients.  
+- 📊 Shared analytical notebooks and Kaggle solutions in **Kaggle-Work** repo.  
+- 🧠 Published solved ML/AI exercises in **Exercises-And-Assignments**.  
+- ☁️ Certified & experienced in **GCP + Huawei Cloud AI**.  
+- ⭐ Active contributor to open-source and data community initiatives.
 
 ---
 
 ## 💼 Featured Projects
 
-| Project | Description & Highlights |
-|---|---|
-| 🛰️ **Land-Type Classification using Sentinel-2 Satellite Images** | End-to-end workflow: preprocessing, cloud masking, feature extraction, and ML classification. |
-| 💳 **Digital-Card** | Responsive static portfolio web app (HTML, CSS, JS). Demonstrates design and deployment proficiency. |
-| 📘 **Exercises-And-Assignments** | Curated collection of solved ML & AI problems with detailed notebooks and code examples. |
-| 🧠 **Kaggle-Work** | Experiments with datasets, model tuning, and competitions to refine practical ML experience. |
+| 🌟 Project | 🧩 Description |
+|------------|----------------|
+| **🛰️ Land-Type Classification (Sentinel-2)** | End-to-end geospatial ML pipeline: preprocessing, cloud masking, band selection, model training & evaluation. |
+| **💳 Digital-Card** | Clean, responsive HTML/CSS static website designed for clients. |
+| **📘 Exercises-And-Assignments** | Repository of solved ML/AI tasks and challenges. |
+| **📊 Kaggle-Work** | Exploration of datasets, EDA, and ML experiments with reproducible notebooks. |
 
-> 🗂️ Browse all projects → [GitHub Repositories](https://github.com/SherifAmino?tab=repositories)
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,html,css,js,flask,fastapi,tensorflow,pytorch,sklearn,docker,git,github,linux,gcp,vscode&theme=dark" />
-</p>
-
-| Domain | Tools & Frameworks |
-|---|---|
-| **Programming** | Python, R, SQL |
-| **ML / Data Science** | scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, OpenCV |
-| **Geospatial / Remote Sensing** | Rasterio, GDAL, Sentinel Toolkits, Google Earth Engine API |
-| **Cloud & MLOps** | GCP, Huawei Cloud (HCIA), Docker, GitHub Actions, CI/CD |
-| **Web Development** | HTML, CSS, JavaScript, Flask, FastAPI |
-| **Data Engineering** | Pandas, Dask, Spark, Airflow |
-| **Visualization** | Matplotlib, Seaborn, Plotly, Folium |
+> 🔗 Explore all repositories → [github.com/SherifAmino?tab=repositories](https://github.com/SherifAmino?tab=repositories)
 
 ---
 
-## ☁️ Cloud Expertise
+## 🧰 Tech Stack & Tools
 
-### **Google Cloud Platform (GCP)**  
-- Experience with Compute Engine, BigQuery, Vertex AI, and Cloud Storage  
-- Deployment of ML workflows and automation scripts via GCP APIs  
-
-### **Huawei Cloud (HCIA Certified)**  
-- Skilled in AI/ML services including ModelArts & Cloud Deployment  
-- Implemented automated malware analysis with static/dynamic AI APIs  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SherifAmino&show_icons=true&theme=github_dark&count_private=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SherifAmino&theme=github-dark-blue" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherifAmino&layout=compact&theme=github_dark"/>
-</p>
+| 🧩 Domain | ⚙️ Tools & Technologies |
+|------------|--------------------------|
+| **Programming** | Python 🐍, R 📊, SQL 🧮 |
+| **ML / Data** | scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM |
+| **Geospatial** | Rasterio, GDAL, Earth Engine, Sentinel APIs |
+| **Web** | HTML, CSS, JavaScript, Flask, FastAPI |
+| **DevOps / MLOps** | Docker, Git, GitHub Actions, CI/CD |
+| **Cloud** | Google Cloud Platform ☁️, Huawei Cloud ☁️ |
+| **Data Eng.** | Pandas, Dask, Spark, Airflow |
+| **Visualization** | Matplotlib, Seaborn, Plotly, Folium 🌍 |
 
 ---
 
-## 🤝 Connect With Me
+## 📈 GitHub Stats
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sherif-amin-9a476b278/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://sherif-amin-0wlgobf.gamma.site"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SherifAmino&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SherifAmino&theme=tokyonight&hide_border=true" width="49%" />
+</div>
 
----
-
-## 🧭 Explore My Profile
-
-1. 🧩 Browse **repositories** (starred & latest) for project depth.  
-2. 📓 Dive into **notebooks** for end-to-end ML code and analysis.  
-3. 💬 Open an **issue / discussion** for collaboration or questions.  
-4. ⭐ Star your favorite projects — contributions are always welcome!  
-5. 🌱 Watch my profile for new projects in **AI + Geospatial + Cloud** domains.  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherifAmino&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SherifAmino&theme=tokyonight" width="98%" />
+</div>
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🛰️ Combining **AI + Satellite Imagery** to solve environmental challenges fascinates me.  
-- ☕ Coffee + clean code = productivity.  
-- 🧠 I enjoy transforming complex ML problems into clear, modular pipelines.  
-- 🕓 Late-night coding is my favorite flow state.  
-- 💬 Motto: *“Learning never stops; all code is a draft until production.”*
+- 🧠 I love combining **AI + Satellite Imagery** to create meaningful insights.  
+- 🧩 I believe in **clean, reproducible, and readable code**.  
+- ✍️ Occasionally write about **geospatial ML** and **model interpretability**.  
+- ☕ Coffee + Code = Productivity.  
 
 ---
 
-<h3 align="center">✨ Thanks for stopping by — Let’s build something meaningful! ✨</h3>
+## 💬 Let’s Connect!
+
+> 💼 [LinkedIn](https://www.linkedin.com/in/sherif-amin-9a476b278) | 🌍 [Portfolio](https://sherif-amin-0wlgobf.gamma.site) | 📧 [Email Me](mailto:sherifhamin@gmail.com)
 
 <p align="center">
-  <img src="https://github.com/SherifAmino/SherifAmino/blob/main/assets/wave.svg" width="60%">
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/demo-image.gif" width="200" />
 </p>
+
+---
+
+<h3 align="center">✨ “Learning never stops; all code is a draft until production.” ✨</h3>
+
+<div align="center">
+  <img src="https://github.com/sherifamin/SherifAmino/blob/main/assets/rocket-launch.gif" width="150" />
+</div>
+
+---
+
+<p align="center">⭐ Thanks for visiting! Let's build something meaningful together 🚀</p>
