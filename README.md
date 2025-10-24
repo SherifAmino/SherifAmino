@@ -1,137 +1,127 @@
-```markdown
-# Hi, I'm Sherif Amin 👋
+# 🎯 Sherif Amin (SherifAmino)
+
+[![GitHub followers](https://img.shields.io/github/followers/SherifAmino?label=Follow&style=social)](https://github.com/SherifAmino?tab=followers)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SherifAmino&layout=compact&theme=github_dark)](https://github.com/SherifAmino)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SherifAmino&show_icons=true&count_private=true&theme=github_dark)](https://github.com/SherifAmino)
+
+---
+
+## 🧑‍💻 About Me
+
+- **Name**: Sherif Amin  
+- **Role**: Data Scientist / Software Engineer  
+- **Location**: Cairo, Egypt  
+- **Website / Portfolio**: [sherif-amin-0wlgobf.gamma.site](https://sherif-amin-0wlgobf.gamma.site)  
+- **LinkedIn**: [in/sherif-amin-9a476b278](https://www.linkedin.com/in/sherif-amin-9a476b278)  
+- **Certifications**:  
+  - 🎓 **HCIA – Huawei Certified ICT Associate (AI Track)**  
+  - ☁️ **Google Cloud Platform (GCP)** – Familiar with Compute Engine, Cloud Storage, BigQuery, and AI/ML APIs  
+- **Interests**: Machine Learning, Remote Sensing, Computer Vision, Data Engineering, and Cloud Computing  
+- **Currently Learning / Exploring**:  
+  - Advanced Deep Learning (Transformers, Diffusion Models)  
+  - Scalable ML Infrastructure (MLOps, Pipelines)  
+  - Geospatial / Satellite Imagery Analytics  
+  - Cloud-based AI development (GCP, Huawei Cloud)  
+
+---
+
+## 🚀 Highlights & Achievements
+
+- 🛰️ Developed a **land-type classification pipeline** using **Sentinel-2 satellite imagery** (cloud detection, feature extraction, classification).  
+- 🌐 Built **Digital-Card**, a clean, responsive static web front for clients.  
+- 📘 Contributed notebooks and solutions in **Kaggle-Work** — exploring real-world datasets and sharing insights.  
+- 🧩 Solved classic ML assignments and exercises in **Exercises-And-Assignments**.  
+- 💬 Actively explores **AI cloud APIs (Huawei Cloud, Google Cloud)** to deploy and test intelligent workloads.  
+- ⭐ **Starred / Forked** interesting open-source repositories to grow skills and network.  
+
+---
+
+## 💼 Featured Projects
+
+| Project | Description & Highlights |
+|---|---|
+| 🛰️ **Land-Type Classification using Sentinel-2 Satellite Images** | End-to-end workflow: preprocessing, cloud masking, band selection, classification model training and validation. |
+| 💳 **Digital-Card** | A minimalist HTML/CSS static site built for a client. Demonstrates clean frontend design and deployment. |
+| 📊 **Exercises-And-Assignments** | A collection of solved machine learning / AI assignments and practice problems — a reference for peers. |
+| 🧠 **Kaggle-Work** | Experiments with real-world datasets, model design, feature engineering, competitions, and notebooks. |
+
+> View all my projects → [GitHub Repositories](https://github.com/SherifAmino?tab=repositories)
+
+---
+
+## 🧰 Tech Stack & Tools
+
+Here’s a snapshot of the technologies I work with:
+
+| Domain | Tools / Languages |
+|---|---|
+| **Programming** | Python, R, SQL |
+| **ML / Data** | scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, OpenCV |
+| **Geospatial / Remote Sensing** | Rasterio, GDAL, Sentinel Toolkits, Google Earth Engine API |
+| **Cloud & Infrastructure** | Google Cloud (GCP), Huawei Cloud, Docker, GitHub Actions |
+| **Web / API** | HTML, CSS, JavaScript, Flask, FastAPI |
+| **Data Engineering** | Pandas, Dask, Apache Spark, Airflow |
+| **Visualization** | Matplotlib, Seaborn, Plotly, Folium / GIS tools |
+
+---
+
+## ☁️ Cloud Expertise
+
+- **GCP (Google Cloud Platform)**  
+  - Hands-on experience with Compute Engine, BigQuery, Vertex AI, and Cloud Storage  
+  - Integration of ML pipelines with GCP APIs  
+
+- **Huawei Cloud (HCIA Certified)**  
+  - Proficient in deploying AI models and using ModelArts  
+  - Experienced in static and dynamic malware analysis automation using Huawei Cloud APIs  
+
+---
+
+## 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Open+Source+Enthusiast;Building+things+people+use&center=true&width=650" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SherifAmino&show_icons=true&count_private=true&theme=github_dark" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SherifAmino&theme=github-dark-blue" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherifAmino&layout=compact&theme=github_dark"/>
 </p>
 
 ---
 
-## 🔭 About Me
+## 📬 Connect With Me
 
-I'm Sherif Amin — a software engineer from Egypt. I build full-stack applications, automation tools, and developer tools. I enjoy turning ideas into production-ready code and learning new technologies every week.
+- 💼 LinkedIn: [in/sherif-amin-9a476b278](https://www.linkedin.com/in/sherif-amin-9a476b278)  
+- 🌐 Website / Portfolio: [sherif-amin-0wlgobf.gamma.site](https://sherif-amin-0wlgobf.gamma.site)  
+- 📧 Email: *(add your professional email here)*  
 
-- 🌱 Currently learning: **Kubernetes, Go, and advanced system design**
-- 👯 I’m looking to collaborate on open-source projects related to web automation, devtools, and accessibility
-- 💬 Ask me about: **Python, Django, JavaScript, Docker, cloud infra**
-- 📫 How to reach me: `sherif@example.com` *(replace with your email)*
-
----
-
-## ⭐ Highlights
-
-- 🔧 Built automation tooling for web-scraping and data pipelines
-- 🧪 Passionate about security, malware analysis, and pragmatic ML
-- 🎓 Dual degree: Arab Academy for Science, Technology & Maritime Transport & University of Northampton
+🤝 Open to collaborations, project ideas, internships, and mentorship discussions related to AI, ML, and cloud computing.
 
 ---
 
-## 🧰 Tech Stack
+## 🧩 How to Explore / Use This Profile
 
-![Top Languages](https://img.shields.io/github/languages/top/SherifAmino?logo=github)
-![Most Used Language](https://img.shields.io/github/languages/count/SherifAmino)
-
-**Languages & Frameworks:** Python, JavaScript, Django, React, HTML/CSS
-
-**Tools & Platforms:** Docker, Kubernetes, GitHub Actions, GCP, Git
-
----
-
-## 🚀 Featured Projects
-
-> *Replace these with specific repo links from your account.*
-
-- **Project One** — _Description._ [Repo link](https://github.com/SherifAmino/PROJECT_ONE)
-- **Project Two** — _Description._ [Repo link](https://github.com/SherifAmino/PROJECT_TWO)
-- **Round Robin Simulator** — Interactive scheduler simulator built with Django and JS. [Repo link](https://github.com/SherifAmino/round-robin-simulator)
+1. Browse **repositories** by most starred or recent to explore my work.  
+2. Dive into **Jupyter notebooks** for code insights, experiments, and visualizations.  
+3. Use **issues / discussions** for feedback or ideas.  
+4. ⭐ Star or fork repos you like — collaboration is always welcome!  
+5. Watch my profile for upcoming **AI + Geospatial projects**.
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Fun Facts
+
+- 🌍 Love combining **AI + satellite imagery** to solve environmental and agricultural challenges.  
+- ☕ Coffee and clean code are my perfect pair.  
+- 🧠 Fascinated by automation, APIs, and cloud integrations.  
+- 🕓 Late-night coding = creative breakthroughs.  
+- 🏆 Motto: *“Learning never stops; all code is a draft until production.”*  
+
+---
+
+<h3 align="center">✨ Let’s build something meaningful. Thanks for visiting! ✨</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SherifAmino&show_icons=true&theme=midnight" alt="Sherif's GitHub stats" />
+  <img src="https://github.com/SherifAmino/SherifAmino/blob/main/assets/wave.svg" width="60%">
 </p>
-
----
-
-## 🔗 Links
-
-- [Portfolio](#) • [LinkedIn](#) • [Twitter](#) *(Replace with your links)*
-
----
-
-## ✨ Modern Refactor — Animated + UI Polished
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="80" />
-</p>
-
-<h1 align="center">Sherif Amin <br/><sub>Software Engineer — Egypt 🇪🇬</sub></h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&center=true&lines=Automation+%7C+Open+Source+%7C+DevTools" alt="I build..." />
-</p>
-
-<p align="center">
-  <a href="#projects"><img src="https://img.shields.io/badge/Portfolio-Explore-blue?style=for-the-badge" /></a>
-  <a href="#contact"><img src="https://img.shields.io/badge/Contact-Email-orange?style=for-the-badge" /></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/Stack-Python%20%7C%20Django-green?style=for-the-badge" /></a>
-</p>
-
----
-
-## 🔭 What I do
-
-<ul>
-<li>Design and implement web apps with Django and React</li>
-<li>Automate data collection and processing using Python</li>
-<li>Prototype system-level tools and small ML proof-of-concepts</li>
-</ul>
-
----
-
-## 🧭 Quick links
-
-<details>
-<summary>📁 Selected repos (click to expand)</summary>
-
-- [Round Robin Simulator](https://github.com/SherifAmino/round-robin-simulator) — Scheduling simulator for OS assignments
-- [Web Scraper Toolkit](https://github.com/SherifAmino/web-scraper-toolkit) — Modular scraping tools with GUI
-- [Braille Smartwatch](https://github.com/SherifAmino/braille-smartwatch) — Graduation project: accessible watch prototype
-
-</details>
-
----
-
-## 🧰 Tech stack
-
-<details>
-<summary>Languages & Tools</summary>
-
-- **Languages:** Python, JavaScript (ES6+), SQL
-- **Frameworks:** Django, React
-- **Infra:** Docker, Kubernetes, GKE, GitHub Actions
-
-</details>
-
----
-
-## 🎛️ Interactive badges & live previews
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SherifAmino&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
-## 📫 Contact
-
-- Email: `sherif@example.com` *(replace)*
-- Website / Portfolio: `https://your-portfolio.com` *(replace)*
-
----
-
-_Made with ❤️ — feel free to customize further._
-```
-
