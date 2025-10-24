@@ -1,109 +1,98 @@
-# 🎯 Sherif Amin (SherifAmino)
+<!-- Animated Header -->
+<h1 align="center">Hey there 👋, I'm Sherif Amin</h1>
+<h3 align="center">A Passionate Software Engineer & Data Scientist from Egypt 🇪🇬</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/SherifAmino?label=Follow&style=social)](https://github.com/SherifAmino?tab=followers)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SherifAmino&layout=compact)](https://github.com/SherifAmino)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SherifAmino&show_icons=true&count_private=true)](https://github.com/SherifAmino)
-
----
-
-## 🧑‍💻 About Me
-
-- **Name**: Sherif Amin  
-- **Role**: Data Scientist  
-- **Location**: Cairo, Egypt  
-- **Website / Portfolio**: [sherif-amin-0wlgobf.gamma.site](https://sherif-amin-0wlgobf.gamma.site)  
-- **LinkedIn**: [in/sherif-amin-9a476b278](https://www.linkedin.com/in/sherif-amin-9a476b278)  
-- **Interests**: Machine Learning, Remote Sensing, Computer Vision, Data Engineering, Open Source  
-- **Currently Learning / Exploring**:  
-  - Advanced Deep Learning (transformers, diffusion models)  
-  - Scalable ML infrastructure (MLOps, pipelines)  
-  - Geospatial / satellite imagery analytics  
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3EB489&width=550&lines=Data+Scientist+%7C+ML+Engineer+%7C+AI+Developer;Passionate+about+Geospatial+and+Satellite+Analytics;Always+learning%2C+building%2C+and+exploring+new+tech!">
+  </a>
+</p>
 
 ---
 
-## 🚀 Highlights & Achievements
-
-- Developed a land-type classification pipeline using **Sentinel-2 satellite imagery** (cloud detection, feature extraction, classification).  
-- Built **Digital-Card**, a clean, responsive static web front for clients.  
-- Contributed notebooks and solutions in **Kaggle-Work** repository — exploring real-world datasets and sharing insights.  
-- Solved classic ML assignments and custom exercises in **Exercises-And-Assignments**.  
-- **Starred / Forked** interesting public repos and participated in open-source projects to grow skills and network.
-
----
-
-## 💼 Featured Projects
-
-Here are some of my key works. Click through to explore code, notebooks, and documentation.
-
-| Project | Description & Highlights |
-|---|---|
-| **Land-Type Classification using Sentinel-2 Satellite Images** | End-to-end workflow: preprocessing, cloud masking, band selection, classification model training and validation. |
-| **Digital-Card** | A minimalist HTML/CSS static site built for a client. Demonstrates clean frontend design and deployment. |
-| **Exercises-And-Assignments** | A collection of solved machine learning/AI assignments and practice problems — a reference for peers. |
-| **Kaggle-Work** | Experiments with real-world datasets, model design, feature engineering, competitions, notebooks. |
-
-> You can view all my repos [here](https://github.com/SherifAmino?tab=repositories).
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sherif-amin-9a476b278/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://sherif-amin-0wlgobf.gamma.site"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧠 About Me
 
-Here’s a snapshot of the languages, frameworks, and tools I use:
+💡 Curious by nature, driven by data — I’m a **Software Engineer and Data Scientist** who loves transforming information into intelligent systems.
 
-| Domain | Tools / Languages |
-|---|---|
-| Programming | Python, R, SQL |
-| ML / Data | scikit-learn, TensorFlow / PyTorch, XGBoost, LightGBM, OpenCV |
-| Geospatial / Remote Sensing | Rasterio, GDAL, Sentinel Toolkits, Earth Engine APIs |
-| Web / Frontend | HTML, CSS, JavaScript, Flask / FastAPI |
-| DevOps / MLOps | Docker, Git, GitHub Actions, CI/CD pipelines |
-| Data Engineering | Pandas, Dask, Spark, Airflow |
-| Visualization | Matplotlib, Seaborn, Plotly, Folium / GIS tools |
+🎓 Dual-degree student at **Arab Academy for Science, Technology & Maritime Transport** and the **University of Northampton**.  
+🌍 Exploring the intersection of **machine learning, satellite imagery, and automation**.  
+🧩 I enjoy creating efficient, modular code and contributing to open-source projects.  
+⚙️ Currently diving deeper into **Deep Learning, MLOps, and Computer Vision**.  
 
 ---
 
-## 📈 GitHub Activity & Stats
+## 🚀 Projects & Highlights
 
-Here are my GitHub stats updated in real time:
+| 🔹 Project | 💬 Description |
+|-------------|----------------|
+| 🛰️ **Land-Type Classification using Sentinel-2** | Built an ML pipeline for satellite image classification using Python, GDAL, and TensorFlow. |
+| 💳 **Digital-Card** | Clean, responsive portfolio landing page for clients using HTML, CSS, and JS. |
+| 📊 **Kaggle-Work** | Experiments and notebooks analyzing diverse datasets with scikit-learn and pandas. |
+| 🎯 **Exercises-And-Assignments** | Collection of solved AI & ML tasks — ideal for students and enthusiasts. |
 
-- **Top Languages**:  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SherifAmino&layout=compact)  
-- **Contributions & Activity**:  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SherifAmino&show_icons=true&count_private=true)
-
----
-
-## 📬 Connect With Me
-
-Feel free to reach out or follow:
-
-- LinkedIn: [in/sherif-amin-9a476b278](https://www.linkedin.com/in/sherif-amin-9a476b278)  
-- Website / Portfolio: [sherif-amin-0wlgobf.gamma.site](https://sherif-amin-0wlgobf.gamma.site)  
-- Email: *(add your professional email here)*  
-
-I’m open to collaborations, project ideas, mentorship, or just chatting about ML, geospatial data, and web tech 🤝
+> Explore all my work → [GitHub Repositories](https://github.com/SherifAmino?tab=repositories)
 
 ---
 
-## 🧩 How to Explore / Use This Profile
+## 🧰 Tech Stack
 
-1. **Browse Repositories** by most starred or most recent to see project depth.  
-2. Dive into **Jupyter Notebooks** to read experiments, analysis, visuals.  
-3. Use **issues / discussions** to propose ideas, improvements, or ask questions.  
-4. If you like something — ⭐ it, fork it, or file a PR!  
-5. Watch the profile to stay updated on new ML / geospatial projects.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,tensorflow,pytorch,git,github,docker,linux,vscode&theme=dark" />
+</p>
+
+🧪 I work mainly with:
+- **Languages:** Python, R, SQL  
+- **Frameworks:** TensorFlow, PyTorch, Flask, FastAPI  
+- **Data & ML Tools:** Pandas, NumPy, OpenCV, scikit-learn  
+- **MLOps / Deployment:** Docker, GitHub Actions  
+- **Visualization:** Matplotlib, Plotly, Seaborn  
+- **Remote Sensing:** GDAL, Rasterio, Earth Engine API  
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SherifAmino&show_icons=true&theme=github_dark&count_private=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SherifAmino&theme=github-dark-blue" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherifAmino&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+## 🧭 Current Goals
+
+- Build a **geospatial ML model** with cloud processing  
+- Learn **Dockerized AI workflows** for scalable deployment  
+- Contribute to **open-source AI or Earth observation projects**  
+- Enhance my **portfolio with live demos and APIs**
 
 ---
 
 ## ⚡ Fun Facts
 
-- I love combining **satellite imagery** + **ML** to solve real challenges (e.g. agriculture, environment).  
-- I’m a fan of **clean code, reproducibility, and clear documentation**.  
-- I occasionally blog / write on Medium or dev platforms about remote sensing, model interpretability, etc.  
-- Coffee + code is my default mode — working late nights is a feature, not a bug 😄
+- ☕ Coffee & code = productivity.  
+- 🛰️ Fascinated by remote sensing and how ML can help solve environmental challenges.  
+- 🧩 I love simplifying complex systems into clean, modular components.  
+- 🌱 Motto: *"Every model is a prototype until it creates real impact."*
 
 ---
 
-> **“Learning never stops; all code is a draft until production.”**  
+<h3 align="center">✨ Thanks for visiting! ✨</h3>
 
-Let’s build something meaningful. Thanks for stopping by! 👋  
+<p align="center">
+  <img src="https://github.com/SherifAmino/SherifAmino/blob/main/assets/wave.svg" width="60%">
+</p>
